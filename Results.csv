@@ -1,0 +1,14 @@
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20210218_133551.tiff,3,"[418.5, 420.5, 423.97369384765625]","[333.5, 308.5, 355.5]","[12.020915031433105, 12.020915031433105, 13.104458808898926]","['Optical Degradation', 'Optical Degradation', 'Optical Degradation']","['Critical Fault', 'Critical Fault', 'Critical Fault']"
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20210218_133906.tiff,1,[201.0],[214.5],[15.239850997924805],['Cell Crack-Burned cell'],['Major Fault']
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20210218_134005.tiff,1,[214.0],[180.5],[20.934520721435547],['Optical Degradation'],['Critical Fault']
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20210218_141339.tiff,-,-,-,-,No issue detected,-
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20210218_141340.tiff,1,[214.0],[180.5],[20.934520721435547],['Optical Degradation'],['Critical Fault']
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20211027_182719.tiff,-,-,-,-,No issue detected,-
+Image_Name,Number_Of_Hotspots,X_Coordinates,Y_Coordinates,Radius,Issue,Severity_Stage
+20211027_182721.tiff,-,-,-,-,No issue detected,-
